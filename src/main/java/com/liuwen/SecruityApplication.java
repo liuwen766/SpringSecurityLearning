@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @create: 2020-04-06 01:28
  **/
 @SpringBootApplication
-public class TestApplication {
+public class SecruityApplication {
     public static void main(String[] args){
-        SpringApplication.run(TestApplication.class,args);
+        SpringApplication.run(SecruityApplication.class,args);
     }
 }
