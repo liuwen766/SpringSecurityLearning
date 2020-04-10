@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @description: Good good study,day day up!
+ * @description: 启动类
  * @author: Liu Wen
  * @create: 2020-04-06 01:28
  **/
